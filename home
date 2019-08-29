@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<head>
+  <title>Bon Bon Elephant</title>
+  <style> 
+    h1 {
+      font-family: montserrat;
+      font-size: 30px;
+      text-align: center;
+    }
+    body {
+      font-family: montserrat;
+      font-size: 14px;
+      text-align: center;
+    }
+</head>
+<body>
+  <h1>Bon Bon Elephant</h1>
+  <h2>Hi, I'm Bon Bon</h2>
+  <h3>I live in Chiang Mai, Thailand, at an elephant sanctuary</h3>
+  <p>Click the link below to learn more about me</p>
+  <input type="submit">
+</body>
